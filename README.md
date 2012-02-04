@@ -18,5 +18,5 @@ Description of Scripts:
 	<tr><td>Codec_ID_Info</td><td>Advanced Video Coding</td></tr>
 	<tr><td>Codec_ID_Url</td><td>http://www.apple.com/quicktime/download/standalone.html</td></tr>
 	<tr><td>Codec_Info</td><td>Advanced Video Codec</td></tr>
-	<tr><td>so on and so forth....</td><td/>
+	<tr><td>so on and so forth....</td><td/></tr>
 	</tbody></table>
