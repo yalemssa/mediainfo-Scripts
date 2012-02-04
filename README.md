@@ -3,7 +3,7 @@ Description of Scripts:
 <h3>MIParse.groovy</h3>
 <p>Parses a media file with mediainfo (you must have this on your path) and returns a map of each underlying stream. Each entry in the map is another map that contains only the most machine readable forms of each field and has been sorted alphabetically. 
 <br />	
-<emph>execute: >$groovy MIParse.groovy > output.html</emph></p>
+<strong>execute</strong> you$ groovy MIParse.groovy > output.html</p>
 	
 <p>example output:<p>
 	<h3>1 : Video</h3><table><thead><tr><th>field</th><th>value</th></tr><thead><tbody><tr><td>Bit_depth</td><td>8</td></tr>
